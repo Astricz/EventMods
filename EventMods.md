@@ -12,3 +12,4 @@
 |[FPS Display](https://modrinth.com/mod/fpsdisplay)|A simple Fabric mod that displays the current FPS on screen.|Grayray75|1.8.9+|No|[LGPL-3.0](/licenses/licenses.md#lgpl-30)|
 |[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)|Displays a map of the nearby world|thexaero|1.19.1+|Yes|[All Rights Reserved](/licenses/licenses.md#all-rights-reserved)|
 |[Sodium](https://modrinth.com/mod/sodium)|A modern rendering engine for Minecraft which greatly improves performance|jellysquid3|1.16.3+|No|[All Rights Reserved](/licenses/licenses.md#all-rights-reserved)|
+|[AntiGhost](https://modrinth.com/mod/antighost)|Get rid of ghost blocks by requesting resends from the server|1.16.4+|No|[MIT](/licenses/licenses.md#mit)|
