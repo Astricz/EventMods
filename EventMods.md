@@ -8,4 +8,4 @@
 |[Auth Me](https://modrinth.com/mod/auth-me)|Authenticate yourself and re-validate your session|axieum|1.16+|[MIT](/licenses/licenses.md#mit)|
 |[Visible Barriers](https://modrinth.com/mod/visiblebarriers)|Making barriers visible and other mapmaking help. (Read the Rules of the server!)|AmyMialee|1.18.2+|[All Rights Reserved](/licenses/licenses.md#all-rights-reserved)|
 |[freecam](https://modrinth.com/mod/freecam)|A highly customizable freecam mod. (Read the rules of the server!)|hashalite|1.16.2+|[MIT](/licenses/licenses.md#mit)|
-
+|[Gamma Utils](https://modrinth.com/mod/gamma-utils)|Fullbright|Sjouwer|1.14.4+|[LGPL-3.0](/licenses/licenses.md#lgpl-30)|
