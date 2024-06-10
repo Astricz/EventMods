@@ -10,3 +10,4 @@
 |[freecam](https://modrinth.com/mod/freecam)|A highly customizable freecam mod. (Read the rules of the server!)|hashalite|1.16.2+|Yes|[MIT](/licenses/licenses.md#mit)|
 |[Gamma Utils](https://modrinth.com/mod/gamma-utils)|Fullbright|Sjouwer|1.14.4+|No|[LGPL-3.0](/licenses/licenses.md#lgpl-30)|
 |[FPS Display](https://modrinth.com/mod/fpsdisplay)|A simple Fabric mod that displays the current FPS on screen.|Grayray75|1.8.9+|No|[LGPL-3.0](/licenses/licenses.md#lgpl-30)|
+|[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)|Displays a map of the nearby world|thexaero|1.19.1+|Yes|[All Rights Reserved](/licenses/licenses.md#all-rights-reserved)|
