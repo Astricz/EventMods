@@ -26,3 +26,4 @@
 |[Switcheroo](https://modrinth.com/mod/switcheroo)|Switch your currently held item for an effective item when clicking on a block.|Nato Boram|1.16.5+|Yes|[GPL-3](/licenses/licenses.md#gpl-3)|
 |[Very Many Players](https://modrinth.com/mod/vmp-fabric)|A Fabric mod designed to improve server performance at high playercounts.|ishland|1.18+|No|[MIT](/licenses/licenses.md#mit)|
 |[Chat Heads](https://modrinth.com/mod/chat-heads)|See who you're chatting with!|dzwdz|1.16+|No|[MPL-2.0](/licenses/licenses.md#mpl-20)|
+|[No Chat Reports](https://modrinth.com/mod/no-chat-reports)|Makes chat unreportable (where possible)|Aizistral|1.19+|No|[All Rights Reserved](/licenses/licenses.md#all-rights-reserved)|
