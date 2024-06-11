@@ -27,3 +27,5 @@
 |![Modrinth Icon](/Modrinth.png)[Very Many Players](https://modrinth.com/mod/vmp-fabric)|A Fabric mod designed to improve server performance at high playercounts.|ishland|1.18+|No|[MIT](/licenses/licenses.md#mit)|
 |![Modrinth Icon](/Modrinth.png)[Chat Heads](https://modrinth.com/mod/chat-heads)|See who you're chatting with!|dzwdz|1.16+|No|[MPL-2.0](/licenses/licenses.md#mpl-20)|
 |![Modrinth Icon](/Modrinth.png)[No Chat Reports](https://modrinth.com/mod/no-chat-reports)|Makes chat unreportable (where possible)|Aizistral|1.19+|No|[All Rights Reserved](/licenses/licenses.md#all-rights-reserved)|
+|![Modrinth Icon](/Modrinth.png)[ViaFabric](https://modrinth.com/mod/viafabric)|Allows to connect to older servers with older versions|creeper123123321|1.8.9+|No|[GPL-3](/licenses/licenses.md#gpl-3)|
+|![Modrinth Icon](/Modrinth.png)[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)|When crashing, you can go back to the title screen and keep playing.|natanfudge|1.16.5+|No|[MIT](/licenses/licenses.md#mit)|
