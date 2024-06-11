@@ -13,3 +13,4 @@
 |[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)|Displays a map of the nearby world|thexaero|1.19.1+|Yes|[All Rights Reserved](/licenses/licenses.md#all-rights-reserved)|
 |[Sodium](https://modrinth.com/mod/sodium)|A modern rendering engine for Minecraft which greatly improves performance|jellysquid3|1.16.3+|No|[All Rights Reserved](/licenses/licenses.md#all-rights-reserved)|
 |[AntiGhost](https://modrinth.com/mod/antighost)|Get rid of ghost blocks by requesting resends from the server|Giselbaer|1.16.4+|No|[MIT](/licenses/licenses.md#mit)|
+|[Too Many Players](https://modrinth.com/mod/tmp)|Allows you to increase FPS with a large crowd of players|Feytox|1.20+|No|[MIT](/licenses/licenses.md#mit)|
