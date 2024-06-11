@@ -2,7 +2,7 @@
 
 | Name | Description | Author | Version | Unfair Advantage | License |
 | ---- | ---- | ---- | ----- | ---- | ---- |
-|![Modrinth Icon](/main/modrinth.ico)[EventUtils](https://modrinth.com/mod/alerts)|Alerting for Event Alerts Minecraft events|aabssmc|1.20+|No|[MIT](/licenses/licenses.md#mit)|
+|![Modrinth Icon](/modrinth.ico)[EventUtils](https://modrinth.com/mod/alerts)|Alerting for Event Alerts Minecraft events|aabssmc|1.20+|No|[MIT](/licenses/licenses.md#mit)|
 |![Modrinth Icon](/main/modrinth.ico)[Zoomify](https://modrinth.com/mod/zoomify)|A zoom mod with infinite customizability|isxander|1.18+|No|[LGPL-3.0](/licenses/licenses.md#lgpl-30)|
 |![Modrinth Icon](/main/modrinth.ico)[betterhurtcam](https://modrinth.com/mod/betterhurtcam) |nohurtcam but better|uku|1.14+|No|[MIT](/licenses/licenses.md#mit)|
 |![Modrinth Icon](/main/modrinth.ico)[Auth Me](https://modrinth.com/mod/auth-me)|Authenticate yourself and re-validate your session|axieum|1.16+|No|[MIT](/licenses/licenses.md#mit)|
