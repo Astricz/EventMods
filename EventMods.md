@@ -1,4 +1,4 @@
-# EventMods
+# Fabric Event Utilities
 
 | Name | Description | Author | Version | Unfair Advantage | License |
 | ---- | ---- | ---- | ----- | ---- | ---- |
